@@ -1,4 +1,8 @@
 # CPP-Programs: From Basic to Advanced
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Focus](https://img.shields.io/badge/Focus-Core%20C%2B%2B%20Programming-informational)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A comprehensive collection of **C++ programs** covering concepts from fundamental programming principles to advanced topics. This repository is intended to help beginners build strong foundations and enable intermediate to advanced learners to deepen their understanding of C++ through practical implementations.
 
