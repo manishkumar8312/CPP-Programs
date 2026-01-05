@@ -73,9 +73,5 @@ A comprehensive collection of **C++ programs** covering concepts from fundamenta
 
 ---
 
-## Intended Audience
-
-* Beginners learning C++ from scratch
-* Students preparing for coding interviews
-* Competitive programming aspirants
-* Anyone looking to revise or strengthen C++ fundamentals
+# Resources
+https://docs.google.com/document/d/1Qmh_suVjBv0F3LFC5CfO06knn2zW92nfTyVlQLrUnFs/edit?tab=t.0
