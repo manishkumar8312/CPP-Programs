@@ -72,6 +72,3 @@ A comprehensive collection of **C++ programs** covering concepts from fundamenta
 2. Navigate to the required topic folder and compile the program using a C++ compiler such as `g++`.
 
 ---
-
-# Resources
-https://docs.google.com/document/d/1Qmh_suVjBv0F3LFC5CfO06knn2zW92nfTyVlQLrUnFs/edit?tab=t.0
