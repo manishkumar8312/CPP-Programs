@@ -67,8 +67,4 @@ A comprehensive collection of **C++ programs** covering concepts from fundamenta
 
    ```bash
    git clone https://github.com/your-username/CPP-Programs-From-Basic-to-Advanced.git
-   ```
-
-2. Navigate to the required topic folder and compile the program using a C++ compiler such as `g++`.
-
----
+  ```
